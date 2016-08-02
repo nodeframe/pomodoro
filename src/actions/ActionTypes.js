@@ -1,0 +1,8 @@
+//Timer Action
+export const START_TIME = "START_TIME";
+export const COUNTDOWN_SHORTBREAK_TIME  = "COUNTDOWN_SHORTBREAK_TIME";
+export const COUNTDOWN_LONGBREAK_TIME  = "COUNTDOWN_LONGBREAK_TIME";
+
+export const SET_TIMER = "SET_TIMER";
+export const CREATE_ROOM = "CREATE_ROOM";
+export const GET_ROOMS = "GET_ROOMS";
